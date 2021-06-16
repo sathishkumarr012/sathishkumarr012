@@ -27,7 +27,7 @@ Hi guys, I'm Sathishkumar R.R. . I am currently studying as a CS major in Chenna
 
 [![Twitter](https://img.shields.io/badge/sathish79725137-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sathish79725137)
 [![Email](https://img.shields.io/badge/sathishkumarr012-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkumarr012@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/sathishkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sathishkumar-r-r-408900206)
+[![LinkedIn](https://img.shields.io/badge/sathishkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathishkumar-r-r-408900206/)
 
 ### My GitHub Stats
 
