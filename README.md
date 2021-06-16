@@ -1,16 +1,36 @@
-### Hi there 👋
+## Hey 👋, I'm Sathishkumar R.R.
 
-<!--
-**sathishkumarr012/sathishkumarr012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm **Sathishkumar R.R.**, an Engineering Student.
 
-Here are some ideas to get you started:
+Hi guys, I'm Sathishkumar R.R. . I am currently studying as a CS major in Chennai, India. I'm currently learning Swift programming and open for oppurtunities. I would like to collaborate on projects using Swift. contact me if you have same interest or some questions!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Talking about Personal Stuffs:
+
+- 👨🏽‍💻 I’m currently a Engineering student at my 4th year; 
+- 🤔 My interests are with iOS and macOS programming, c , Python etc..;
+- 💼 I’m pursuing a Bachelor's degree in Engineering Imaging;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email me if you have any questions.
+
+### Languages and Tools:
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+![Apple](https://img.shields.io/badge/iPhone_and_MacBook-999999?style=flat-square&logo=Apple&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-Edge&logoColor=white)
+
+   
+	
+### Contact me:
+
+[![Twitter](https://img.shields.io/badge/sathish79725137-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sathish79725137)
+[![Email](https://img.shields.io/badge/sathishkumarr012-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkumarr012@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/sathishkumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sathishkumar-r-r-408900206)
+
+### My GitHub Stats
+
+![SathishKumar's github stats](https://github-readme-stats.vercel.app/api?username=sathishkumarr012&show_icons=true)
+
+
