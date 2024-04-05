@@ -2,12 +2,12 @@
 
 Hi there, I'm **Sathishkumar R.R.**, an Engineer.
 
-Hi guys, I'm Sathishkumar R.R. . I am currently studying as a CS major in Chicago, USA. I'm currently learning Swift programming and open for oppurtunities. I would like to collaborate on projects using Swift. contact me if you have same interest or some questions!
+Hi guys, I'm Sathishkumar R.R. . I am currently studying as a CS major in Chicago, USA. . contact me if you have same interest or some questions!
 
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently a Engineer ; 
-- 🤔 My interests are with iOS and macOS programming, c , Python etc..;
+- 🤔 My interests are with DevOps, AWS, Azure , c , Python etc..;
 - 💼 I’m pursuing a Master's degree in Computer science Imaging;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
